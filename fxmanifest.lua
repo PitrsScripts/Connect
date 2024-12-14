@@ -8,3 +8,7 @@ server_only 'yes'
 server_scripts {
     'sv.lua',   
 }
+
+dependencies {
+    'es_extended',  
+}
